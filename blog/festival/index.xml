@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>音樂節介紹 on </title>
+    <link>/blog/festival/</link>
+    <description>Recent content in 音樂節介紹 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Dec 2023 18:05:37 +0800</lastBuildDate><atom:link href="/blog/festival/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ultra Music Festival</title>
+      <link>/blog/festival/umf/</link>
+      <pubDate>Wed, 27 Dec 2023 18:05:37 +0800</pubDate>
+      
+      <guid>/blog/festival/umf/</guid>
+      <description>&lt;p&gt;超世代音樂節是起源於佛羅里達州邁阿密市的戶外電子音樂節，一般來說是一場為期兩天的音樂盛宴。
+每次都會邀請到世界著名的音樂製作人/DJ來輪番表演。帶給喜歡電子音樂的人視覺與聽覺的絕對震撼。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tomorrowland</title>
+      <link>/blog/festival/tml/</link>
+      <pubDate>Tue, 26 Dec 2023 18:05:37 +0800</pubDate>
+      
+      <guid>/blog/festival/tml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amsterdam Dance Event</title>
+      <link>/blog/festival/ade/</link>
+      <pubDate>Mon, 25 Dec 2023 18:05:37 +0800</pubDate>
+      
+      <guid>/blog/festival/ade/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
